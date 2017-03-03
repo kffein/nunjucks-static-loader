@@ -1,6 +1,6 @@
 {
   "name": "nunjucks-static-loader",
-  "version": "1.0.0-alpha",
+  "version": "1.0.0",
   "description": "Nunjucks loader that renders HTML strings",
   "main": "index.js",
   "scripts": {
